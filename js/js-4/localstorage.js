@@ -42,4 +42,5 @@ removeLocalStorage("vacuum_email")
 function delAllFromLocalStorage() {
     localStorage.clear()
 }
+delAllFromLocalStorage()
 // видаляє всі ключі з локал стореджа , чистить повністю сховище
