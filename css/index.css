@@ -61,3 +61,6 @@ img{
     align-items: center;
     gap: 50px;
 }
+.timer {
+    font-size: 30px;
+}
